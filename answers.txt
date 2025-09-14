@@ -9,3 +9,7 @@ Answer: Data science can be applied to the field of business. By conducting expe
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: While merging can cause one's commits to remain branched off from the main/target branch, rebasing allows these changes to be moved to the end of the main/target branch, no matter what has been added to the end of the main/target branch while others commits were being worked on.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to working on the group project for CMSC320. 
